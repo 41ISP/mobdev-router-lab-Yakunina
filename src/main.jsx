@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="Yakunina-router-lab">
+    <BrowserRouter basename="mobdev-router-lab-Yakunina">
       <App />
     </BrowserRouter>
   </React.StrictMode>
